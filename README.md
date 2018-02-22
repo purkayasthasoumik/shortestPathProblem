@@ -1,14 +1,23 @@
 # shortestPathProblem
 ICP 2017-18 Project
 Updates:
+
 	1. Proposal sent on time.
+	
 	2. Coding for 25th to 28th Jan. 
+	
 	3. Spillover on 3rd Feb. Began report. Codes uploaded. First edition without comments. 
+	
 	4. Report over on 15th Feb. Presentation start. 
+	
 	5. WordGraphs taking too much time. Shift to Erdos? Check if code is slow. 
+	
 	6. Code seems fine. Maybe better luck with Erdos. Ask sir. 
+	
 	7. Erdos through. Change proposal and report. 
+	
 	8. Final Code uploaded 22.02.2018. 
+	
 	9. Erdos collabGraph data files uploaded as well: authors.txt and arcs.txt
 
 Files uploaded on 22.02.2018
