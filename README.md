@@ -34,14 +34,14 @@ Summary of code files:
 
 	3. makeDAG(n, p):  to generate a DAG of sizen.
 
-	4. getPath(g, p, sourceNode, destNode):  to generate a path using the predecessor arraypfromsourceNodetodestNode.
+	4. getPath(g, p, sourceNode, destNode):  to generate a path using the predecessor array p from sourceNode to destNode.
 
-	5. getWeight(g, path):  to get weight of apathin graph g.
+	5. getWeight(g, path):  to get weight of a path in graph g.
 
-	6. BellmanFord(g, sourceNode, destNode)to implement Bellman Ford algorithm on graphgfromsourceNodetodestNode.
+	6. BellmanFord(g, sourceNode, destNode)to implement Bellman Ford algorithm on graph g from sourceNode to destNode.
 
-	7. DagShortestPath(g, sourceNode, destNode)to find shortest path on DAGgfromsourceNodetodestNode.
+	7. DagShortestPath(g, sourceNode, destNode)to find shortest path on DAG g from sourceNode to destNode.
 
-	8. Dijkstra(g, sourceNode, destNode)to implement Dijkstra’s algorithm on graphgfromsourceNodetodestNode.
+	8. Dijkstra(g, sourceNode, destNode)to implement Dijkstra’s algorithm on graphg from sourceNode to destNode.
 
-	9. erdos(): A code to generate the collaboration graph to find Erdos number from a given text file containingnames of 		authors and a list of collaborations between them.
+	9. erdos(): A code to generate the collaboration graph to find Erdos number from a given text file containing names of authors and a list of collaborations between them.
