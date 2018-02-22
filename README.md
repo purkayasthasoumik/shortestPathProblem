@@ -26,20 +26,22 @@ Report compiled and ready.
 
 Presentation almost done. 
 
-1. plotGraph(g):  to plot a graph g with numbering of nodes and edge weights (if applicable).
+Summary of code files:
 
-2. makeGraph(n,p):  to generate a random graph according to Erdos Renyi G(n,p) model.
+	1. plotGraph(g):  to plot a graph g with numbering of nodes and edge weights (if applicable).
 
-3. makeDAG(n, p):  to generate a DAG of sizen.
+	2. makeGraph(n,p):  to generate a random graph according to Erdos Renyi G(n,p) model.
 
-4. getPath(g, p, sourceNode, destNode):  to generate a path using the predecessor arraypfromsourceNodetodestNode.
+	3. makeDAG(n, p):  to generate a DAG of sizen.
 
-5. getWeight(g, path):  to get weight of apathin graph g.
+	4. getPath(g, p, sourceNode, destNode):  to generate a path using the predecessor arraypfromsourceNodetodestNode.
 
-6. BellmanFord(g, sourceNode, destNode)to implement Bellman Ford algorithm on graphgfromsourceNodetodestNode.
+	5. getWeight(g, path):  to get weight of apathin graph g.
 
-7. DagShortestPath(g, sourceNode, destNode)to find shortest path on DAGgfromsourceNodetodestNode.
+	6. BellmanFord(g, sourceNode, destNode)to implement Bellman Ford algorithm on graphgfromsourceNodetodestNode.
 
-8. Dijkstra(g, sourceNode, destNode)to implement Dijkstra’s algorithm on graphgfromsourceNodetodestNode.
+	7. DagShortestPath(g, sourceNode, destNode)to find shortest path on DAGgfromsourceNodetodestNode.
 
-9. erdos(): A code to generate the collaboration graph to find Erdos number from a given text file containingnames of authors and a list of collaborations between them.
+	8. Dijkstra(g, sourceNode, destNode)to implement Dijkstra’s algorithm on graphgfromsourceNodetodestNode.
+
+	9. erdos(): A code to generate the collaboration graph to find Erdos number from a given text file containingnames of 		authors and a list of collaborations between them.
